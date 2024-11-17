@@ -12,9 +12,9 @@ public class Cheers {
                         } else {
                                 System.out.println("Give me a " + current + ": " + current + "!");
                         }
-
+                        }
                         System.out.println("What does that spell?");
-                }
+                
                         for (int i = 0; i < n; i++) {
                                 System.out.println(s + "!!!");
                         }
