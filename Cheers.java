@@ -10,7 +10,7 @@ public class Cheers {
                         if (vowels.indexOf(current) >= 0) {
                                 System.out.println("Give me an " + current + ": " + current + "!");
                         } else {
-                                System.out.println("Give me a " + current + ": " + current + "!");
+                                System.out.println("Give me a  " + current + ": " + current + "!");
                         }
                         }
                         System.out.println("What does that spell?");
