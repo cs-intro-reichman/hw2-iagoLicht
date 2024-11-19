@@ -22,7 +22,5 @@ public static void main(String[] args) {
 	System.out.println("> 0.5: " + big + " times");
 	System.out.println("<= 0.5: " + small + " times");
 	System.out.println("Ratio: " + ratio);
-
-
 }
 }
